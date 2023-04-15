@@ -13,7 +13,14 @@ h1 {
   text-align: center;
   font-weight: 300;
 }
-  
+.parrafo {
+  width: 50%;
+  text-align: center;
+  padding-left: 500px;
+  margin-bottom: 50px;
+  font-size: 30px;
+  color: aqua;
+ }
 img {
   max-width: 40%;
   padding: 20px;
